@@ -5,6 +5,7 @@
 - 💻 Linkedin:  https://www.linkedin.com/in/lincoln-souza-6324b215b/
 - 🔴 Instagram: https://www.instagram.com/lincolns0uza/
 - 🔵 Facebook:  https://www.facebook.com/lincolino/
+- <i class="bi bi-hand-thumbs-up"></i>
   
   ##
  
