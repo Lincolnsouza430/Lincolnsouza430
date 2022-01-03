@@ -2,7 +2,9 @@
 
 - 📚 Cursando Sistemas para Internet (Fatec Santos)
 - 📫 Contate-me no email: lincolnf12@gmail.com
-- 💻 Linkedin: https://www.linkedin.com/in/lincoln-souza-6324b215b/
+- 💻 Linkedin:  https://www.linkedin.com/in/lincoln-souza-6324b215b/
+- 🔴 Instagram: https://www.instagram.com/lincolns0uza/
+- 🔵 Facebook:  https://www.facebook.com/lincolino/
   
   ##
  
