@@ -1,4 +1,4 @@
-## Olá! Como vai?, Sou o Lincoln. 😎
+## Opa  Sou Lincoln , Tudo bem:?? . 😎
 
 - 📚 Cursando Sistemas para Internet (Fatec Santos)
 - 📫 Contate-me no email: lincolnf12@gmail.com
