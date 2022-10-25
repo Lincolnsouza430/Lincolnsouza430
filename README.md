@@ -36,6 +36,6 @@ target="_blank"></a>
   <a href = "https://open.spotify.com/playlist/37i9dQZF1DXbj9Ksq4BAdj"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
 target="_blank"></a>
 
-    ![Snake animation](https://github.com/Lincolnsouza430/Lincolnsouza430/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Repositories/Lincolnsouza430/blob/output/github-contribution-grid-snake.svg)
 
 </div>
