@@ -1,4 +1,4 @@
-## Opa  Sou Lincoln , Tudo bem:?? . 😎
+##  Sou Lincoln , Tudo bem:?? . 😎
 
 - 📚 Cursando Sistemas para Internet (Fatec Santos)
 - 📫 Contate-me no email: lincolnf12@gmail.com
@@ -36,7 +36,5 @@ target="_blank"></a>
   <a href = "https://open.spotify.com/playlist/37i9dQZF1DXbj9Ksq4BAdj"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
 target="_blank"></a>
 
-
- ![Snake animation](https://github.com/Lincolnsouza430/DanielsOfficial0102/blob/output/github-contribution-grid-snake.svg)
   
 </div>
